@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
 /*
+<<<<<<< HEAD
 ** Copyright 2017, The Android Open Source Project
+=======
+** Copyright 2015, The Android Open Source Project
+>>>>>>> 4eae6c4... alioth: enable config_statusBarBurnInProtection with proper values
 **
 ** Licensed under the Apache License, Version 2.0 (the "License");
 ** you may not use this file except in compliance with the License.
