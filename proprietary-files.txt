@@ -75,6 +75,10 @@ vendor/firmware/spk1_voice_delta.txt
 vendor/firmware/spk2_playback_delta.txt
 vendor/firmware/spk2_voice_delta.txt
 
+# AptX - from mata-user 9 PPR1.181005.099 413 release-keys
+vendor/lib64/libaptX_encoder.so|0cebad28afcf29f931bdc2d24fce2730dc882ecf
+vendor/lib64/libaptXHD_encoder.so|90f47f10af28b3ead143200cb4370b847c513127
+
 # Camera
 vendor/lib64/camera/com.qti.actuator.alioth_dw9800.so
 vendor/lib64/camera/com.qti.eeprom.alioth_ofilm_hi556_p24c64f.so
