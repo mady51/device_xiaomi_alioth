@@ -1,6 +1,34 @@
 [
   {
-    "repository": "android_device_xiaomi_sm8250-common",
+    "repository": "alioth_device_xiaomi_sm8250-common",
     "target_path": "device/xiaomi/sm8250-common"
+  },
+  {
+    "repository": "alioth_vendor_xiaomi_sm8250-common",
+    "target_path": "vendor/xiaomi/sm8250-common"
+  },
+  {
+    "repository": "device_xiaomi_alioth",
+    "target_path": "device/xiaomi/alioth"
+  },
+  {
+    "repository": "vendor_xiaomi_alioth",
+    "target_path": "vendor/xiaomi/alioth"
+  },
+  {
+    "repository": "alioth_kernel_xiaomi_sm8250",
+    "target_path": "kernel/xiaomi/sm8250"
+  },
+  {
+    "repository": "alioth_hardware_qcom-caf_sm8250_display",
+    "target_path": "hardware/qcom-caf/sm8250/display"
+  },
+  {
+    "repository": "alioth_hardware_qcom-caf_sm8250_media",
+    "target_path": "hardware/qcom-caf/sm8250/media"
+  },
+  {
+    "repository": "alioth_hardware_qcom-caf_sm8250_audio",
+    "target_path": "hardware/qcom-caf/sm8250/audio"
   }
 ]
