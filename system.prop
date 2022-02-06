@@ -1,2 +1,5 @@
 # Display
 qemu.sf.lcd_density=420 
+
+# Bluetooth
+ro.bluetooth.library_name=libbluetooth_qti.so
